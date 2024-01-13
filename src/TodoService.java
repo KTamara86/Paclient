@@ -4,7 +4,7 @@
 * Copyright: 2024, Kukta Tamara
 * Group: SZOFT II/1 E
 * Date: 2024-01-12
-* Github: 
+* Github: https://github.com/KTamara86/Paclient.git
 * Licenc: GNU GPL
 */
 
